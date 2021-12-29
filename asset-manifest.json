@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/public.com-clone/static/css/main.1987bcf9.css",
+    "main.js": "/public.com-clone/static/js/main.beded271.js",
+    "static/media/gif.mp4": "/public.com-clone/static/media/gif.618f421ee242afff262d.mp4",
+    "index.html": "/public.com-clone/index.html",
+    "main.1987bcf9.css.map": "/public.com-clone/static/css/main.1987bcf9.css.map",
+    "main.beded271.js.map": "/public.com-clone/static/js/main.beded271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1987bcf9.css",
+    "static/js/main.beded271.js"
+  ]
+}
